@@ -1,7 +1,7 @@
 # Rational Numbers
 
 ## Usage:
-Simple OOP-designed rational number calculator,
+Object oriented rational number calculator,
 
 ## Options: 
 1) Default constructor that initialises the number with a value of 1/1.

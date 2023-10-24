@@ -18,5 +18,8 @@ Object oriented rational number calculator,
 12) pow that performs exponentiation and takes a rational object and an integer exponent. It returns a rational object.
 13) (optional) sqrt that calculates square root of a rational number. If performing this operation is not possible because either the numerator’s or the denominator’s roots are not integers or the rational number passed to this function is negative, infinity or NaN, the function should return a rational instance representing NaN
 
+## UML: 
+![image](https://github.com/nikselko/rational-numbers-calc/assets/46798613/e06cdae0-0999-4f17-a3d9-c293c4559d90)
+
 ## Programmer: 
 Nikita Seliverstov (nikselko)
